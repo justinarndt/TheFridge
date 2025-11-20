@@ -1,0 +1,8 @@
+ray[rllib]>=2.5.0
+torch>=2.0.0
+numpy
+scipy
+matplotlib
+gymnasium
+pandas
+tqdm
